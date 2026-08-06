@@ -4,7 +4,7 @@
 // Carimbada pelo build a cada `npm run build`, a partir do conteúdo do jogo.
 // Fixa no código ela nunca mudava, e a cache antiga vencia para sempre: o
 // tablet ficava preso na primeira versão instalada.
-const VERSION = '9c8266477ed9'
+const VERSION = 'e7196d22068a'
 const CACHE_NAME = `mundo-blocos-${VERSION}`
 const URLS_CACHE = ['.', './index.html']
 
